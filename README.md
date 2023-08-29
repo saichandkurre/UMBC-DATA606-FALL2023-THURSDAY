@@ -50,8 +50,8 @@ Bachelors in computer science engineering, 								Cumulative GPA: 7.6/10
 -	Python for Data Science and Machine Learning Bootcamp, Udemy.
 -	Advanced Statistics and Probability, TCS Certification.
 
-##PROJECTS
--**People’s perception towards Electric Cars**
-	We determined the sentiment toward electric automobiles, Used VADER to categorize unlabeled data from Reddit comments. Applying the LSTM and BERT models allowed us to determine the public’s emotions through their comments.
--**Campaign Finance Analytics** 
-	Using Databricks notebooks, we built a data pipeline to collect data from Amazon S3, clean it up and aggregate it, and then write it into MongoDB using PySpark. Political parties and campaigners use quickly generated reports to run strategic, focused campaigns.
+## PROJECTS ##
+-	**People’s perception towards Electric Cars**
+-	We determined the sentiment toward electric automobiles, Used VADER to categorize unlabeled data from Reddit comments. Applying the LSTM and BERT models allowed us to determine the public’s emotions through their comments.
+-	**Campaign Finance Analytics** 
+-	Using Databricks notebooks, we built a data pipeline to collect data from Amazon S3, clean it up and aggregate it, and then write it into MongoDB using PySpark. Political parties and campaigners use quickly generated reports to run strategic, focused campaigns.
