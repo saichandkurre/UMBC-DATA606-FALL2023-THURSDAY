@@ -1,7 +1,8 @@
 # Personal Info #
-![SaiChand](SaiChand.jpg)
-- **Sai Chand Kurre,**
-- 4726 Gateway Terrace, Arbutus, Baltimore.Zip code:21227.
+<img src="SaiChand.jpg" width="200" />
+ **Sai Chand Kurre,**
+- Phone : +1(410)-900-3402
+- Address: 4726 Gateway Terrace, Arbutus, Baltimore.Zip code:21227.
 - Email: saichandnethakurre@gmail.com.
 
 ## Summary ##
