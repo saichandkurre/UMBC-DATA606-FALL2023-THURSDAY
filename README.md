@@ -1,18 +1,18 @@
 # Personal Info #
-<img src="SaiChand.jpg" width="200" />
+<img src="SaiChand.jpg" width="100" />
  **Sai Chand Kurre,**
-- Phone : +1(410)-900-3402
-- Address: 4726 Gateway Terrace, Arbutus, Baltimore.Zip code:21227.
-- Email: saichandnethakurre@gmail.com.
+-- Phone : +1(410)-900-3402
+-- Address: 4726 Gateway Terrace, Arbutus, Baltimore.Zip code:21227.
+-- Email: saichandnethakurre@gmail.com.
 
 ## Summary ##
 - Results driven professional with a proven track record of achieving and exceeding goals. Strong background in computer science, coupled with leadership, problem-solving, communication. Known for acheiving best employee of month multiple times at Tata Consultancy Services. Excellent collaborator with the ability to adapt to change, work under pressure. Looking to leverage my expertise to drive success and contribute to company.
 
 ## Educational Background ##
 - University Of Maryland, Baltimore County (UMBC), Baltimore, Maryland       January 2022 – December 2023 [Expected]
-Master of Professional Studies in Data Science, 						Cumulative GPA: 3.8/4.0
-VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India                        August 2015 – April 2019
-Bachelors in computer science engineering, 								Cumulative GPA: 7.6/10
+-Master of Professional Studies in Data Science, 						Cumulative GPA: 3.8/4.0
+-VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India                        August 2015 – April 2019
+-Bachelors in computer science engineering, 								Cumulative GPA: 7.6/10
 
 ## Experience ##
 - **Tata Consultancy Services (Bhubaneshwar, India)**                                                                     June 2019 – December 2021
@@ -30,20 +30,20 @@ Bachelors in computer science engineering, 								Cumulative GPA: 7.6/10
 
 ## Technical/computer skills ##
 
--	Database Tools: MYSQL, Microsoft SQL Server.
--	Programming Languages: Python, C, Java.
--	Data Visualization: Seaborn, Matplotlib, Tableau.
--	Cloud services: Office 365, MS Azure.
--	Operating Systems --> Windows, Mac OS, Linux.
+-	**Database Tools:** MYSQL, Microsoft SQL Server.
+-	**Programming Languages:** Python, C, Java.
+-	**Data Visualization:** Seaborn, Matplotlib, Tableau.
+-	**Cloud services:** Office 365, MS Azure.
+-	**Operating Systems:** Windows, Mac OS, Linux.
 
 
 ## Awards ##
-- 	Won the best employee of the month for three months in 2021.
--	Won First prize in CODE MANIA, an event in convergence 2016 at VNR Vignana Jyothi institute of engineering and technology. 
--	Worked as class representative for four years, including helping the professor with assignment grading and managing class attendance and lab activities.
+- 	Won the best **Employee of the Month** for three months in 2021.
+-	Won First prize in **CODE MANIA**, an event in convergence 2016 at VNR Vignana Jyothi institute of engineering and technology. 
+-	Worked as **Class Representative** for four years, including helping the professor with assignment grading and managing class attendance and lab activities.
 
 ## Social activities ##
--	Worked as a student coordinator for SINTILLASHUNZ, the biggest student fest held annually for three days at VNR Vignana Jyothi institute of engineering and technology.
+-	Worked as a student coordinator for **SINTILLASHUNZ**, the biggest student fest held annually for three days at VNR Vignana Jyothi institute of engineering and technology.
 -	Organized cultural events and fundraising events at school.
 -	Mentored students in developing mathematical skills.
 
