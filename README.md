@@ -12,7 +12,6 @@
 Address: 4726 Gateway Terrace, Arbutus, Baltimore,  Zip code: 21227. <br>
 Email: saichandnethakurre@gmail.com.</div>
   
-
 ## Summary ##
 - Results driven professional with a proven track record of achieving and exceeding goals. Strong background in computer science, coupled with leadership, problem-solving, communication. Known for acheiving best employee of month multiple times at Tata Consultancy Services. Excellent collaborator with the ability to adapt to change, work under pressure. Looking to leverage my expertise to drive success and contribute to company.
 
@@ -42,13 +41,11 @@ _Cumulative GPA: 7.6/10_
 - Management and Leadership.
 
 ## Technical/computer skills ##
-
 -	**Database Tools:** MYSQL, Microsoft SQL Server.
 -	**Programming Languages:** Python, C, Java.
 -	**Data Visualization:** Seaborn, Matplotlib, Tableau.
 -	**Cloud services:** Office 365, MS Azure.
 -	**Operating Systems:** Windows, Mac OS, Linux.
-
 
 ## Awards ##
 - 	Won the best **Employee of the Month** for three months in 2021.
@@ -64,7 +61,7 @@ _Cumulative GPA: 7.6/10_
 -	Python for Data Science and Machine Learning Bootcamp, Udemy.
 -	Advanced Statistics and Probability, TCS Certification.
 
-## PROJECTS ##
+## Projects ##
 -	**People’s perception towards Electric Cars** <br>
 We determined the sentiment toward electric automobiles, Used VADER to categorize unlabeled data from Reddit comments. Applying the LSTM and BERT models allowed us to determine the public’s emotions through their comments.
 -	**Campaign Finance Analytics**  <br>
