@@ -18,8 +18,8 @@ Email: saichandnethakurre@gmail.com.</div>
 
 ## Educational Background ##
 **University Of Maryland, Baltimore County (UMBC)**, Catonsville, MD.         
-Master of Professional Studies in Data Science, 	      				
-_January 2022 – December 2023 [Expected]        	 
+Master of Professional Studies in Data Science,    
+_January 2022 – December 2023 [Expected]    
 Cumulative GPA: 3.8/4.0_     
 
 **VNR Vignana Jyothi Institute of Engineering and Technology**, Hyderabad, India    
