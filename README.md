@@ -28,7 +28,7 @@ _August 2015 – April 2019_
 _Cumulative GPA: 7.6/10_
 
 ## Experience ##
-**Tata Consultancy Services (Bhubaneshwar, India)**                      __ June 2019 – December 2021 __
+**Tata Consultancy Services** Bhubaneshwar, India  _(June 2019 – December 2021)_
 -	Worked as a Business Analyst and collaborated with developers to create HR, Payroll, and Benefits enrollment data files. 
 -	Involved in Data Loading and writing queries for performing transformations on the data.
 -	Actively participated in testing activities and wrote unit test cases.
