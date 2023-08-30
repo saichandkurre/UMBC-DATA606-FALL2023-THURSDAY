@@ -1,15 +1,17 @@
 # Personal Information #
 <div style="display: flex; align-items: center;">
+  </div>
+  <div style="flex: 1;">
+    <p align="center">
+    <img src="SaiChand.jpg" alt="Sai Chand Kurre" width="100">
+    </p>
+</div>
   <div style="flex: 1;">
   Sai Chand Kurre<br>
  Phone : +1(410)-900-3402<br>
 Address: 4726 Gateway Terrace, Arbutus, Baltimore,  Zip code: 21227. <br>
-Email: saichandnethakurre@gmail.com.
-  </div>
-  <div style="flex: 1;">
-    <img src="SaiChand.jpg" alt="Sai Chand Kurre" width="100">
-  </div>
-</div>
+Email: saichandnethakurre@gmail.com.</div>
+  
 
 ## Summary ##
 - Results driven professional with a proven track record of achieving and exceeding goals. Strong background in computer science, coupled with leadership, problem-solving, communication. Known for acheiving best employee of month multiple times at Tata Consultancy Services. Excellent collaborator with the ability to adapt to change, work under pressure. Looking to leverage my expertise to drive success and contribute to company.
