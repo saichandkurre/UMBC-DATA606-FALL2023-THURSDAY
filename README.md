@@ -7,10 +7,9 @@
     </p>
 </div>   
 
-
 **$${\color{red} Sai \space Chand \space Kurre}$$**
 **$${\color{black} Address: \space 4726 \space Gateway \space Terrace, \space Arbutus, \space Baltimore, \space  Zip code: \space 21227}$$**
-**$${\color{black} Email: \space saichandnethakurre@gmail.com.}$$**
+**$${\color{black} Email: \space saichandnethakurre@gmail.com}$$**
   
 ## Summary ##
 - Results driven professional with a proven track record of achieving and exceeding goals. Strong background in computer science, coupled with leadership, problem-solving, communication. Known for acheiving best employee of month multiple times at Tata Consultancy Services. Excellent collaborator with the ability to adapt to change, work under pressure. Looking to leverage my expertise to drive success and contribute to company.
