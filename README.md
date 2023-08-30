@@ -17,10 +17,12 @@ Email: saichandnethakurre@gmail.com.</div>
 - Results driven professional with a proven track record of achieving and exceeding goals. Strong background in computer science, coupled with leadership, problem-solving, communication. Known for acheiving best employee of month multiple times at Tata Consultancy Services. Excellent collaborator with the ability to adapt to change, work under pressure. Looking to leverage my expertise to drive success and contribute to company.
 
 ## Educational Background ##
-**University Of Maryland, Baltimore County (UMBC)**, Catonsville, MD.      _January 2022 – December 2023 [Expected]_
-Master of Professional Studies in Data Science, 					__ Cumulative GPA: 3.8/4.0 __
-**VNR Vignana Jyothi Institute of Engineering and Technology**, Hyderabad, India                   __  August 2015 – April 2019 __
-Bachelors in computer science engineering, 						__		Cumulative GPA: 7.6/10 __
+**University Of Maryland, Baltimore County (UMBC)**, Catonsville, MD.     
+_January 2022 – December 2023 [Expected]_
+Master of Professional Studies in Data Science, 					
+_Cumulative GPA: 3.8/4.0_
+**VNR Vignana Jyothi Institute of Engineering and Technology**, Hyderabad, India                   _August 2015 – April 2019_
+Bachelors in computer science engineering, 								_Cumulative GPA: 7.6/10_
 
 ## Experience ##
 **Tata Consultancy Services (Bhubaneshwar, India)**                      __ June 2019 – December 2021 __
