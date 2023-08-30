@@ -1,20 +1,52 @@
 # Personal Information #
-<p align="center">
-<img src="SaiChand.jpg" width="100" alt="Sai Chand Kurre" >
-</p>
- **Sai Chand Kurre,**<br>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+  Sai Chand Kurre<br>
  Phone : +1(410)-900-3402<br>
-Address: 4726 Gateway Terrace, Arbutus, Baltimore.Zip code:21227. <br>
+Address: 4726 Gateway Terrace, Arbutus, Baltimore,  Zip code: 21227. <br>
 Email: saichandnethakurre@gmail.com.
+  </div>
+  <div style="flex: 1;">
+    <img src="SaiChand.jpg" alt="Sai Chand Kurre" width="100">
+  </div>
+</div>
 
 ## Summary ##
 - Results driven professional with a proven track record of achieving and exceeding goals. Strong background in computer science, coupled with leadership, problem-solving, communication. Known for acheiving best employee of month multiple times at Tata Consultancy Services. Excellent collaborator with the ability to adapt to change, work under pressure. Looking to leverage my expertise to drive success and contribute to company.
 
 ## Educational Background ##
-- University Of Maryland, Baltimore County (UMBC), Baltimore, Maryland    <p align="right"> January 2022 – December 2023 [Expected] </p> 
--  Master of Professional Studies in Data Science, 			 <p align="right"> Cumulative GPA: 3.8/4.0 </p> 
--  VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India    <p align="right"> August 2015 – April 2019</p> 
--  Bachelors in computer science engineering, 							 <p align="right">	Cumulative GPA: 7.6/10 </p>
+<div style="display: flex;">
+  <div text-align: left;">
+   University Of Maryland, Baltimore County (UMBC), Baltimore, Maryland 
+  </div>
+  <div  text-align: right;">
+    January 2022 – December 2023 [Expected] 
+  </div>
+</div>
+<div style="display: flex;">
+  <div style="flex: 1; text-align: left;">
+    Master of Professional Studies in Data Science
+  </div>
+  <div style="flex: 1; text-align: right;">
+     Cumulative GPA: 3.8/4.0
+  </div>
+</div>
+<div style="display: flex;">
+  <div text-align: left;">
+    VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India 
+  </div>
+  <div  text-align: right;">
+    August 2015 – April 2019 
+  </div>
+</div>
+<div style="display: flex;">
+  <div style="flex: 1; text-align: left;">
+    Bachelors in computer science engineering,
+  </div>
+  <div style="flex: 1; text-align: right;">
+     Cumulative GPA: 7.6/10
+  </div>
+</div>
 
 ## Experience ##
 - **Tata Consultancy Services (Bhubaneshwar, India)**        <p align="right"> June 2019 – December 2021 </p>
