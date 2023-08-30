@@ -1,4 +1,4 @@
-# Personal Information #
+## Personal Information ##
 <div style="display: flex; align-items: center;">
   </div>
   <div style="flex: 1;">
