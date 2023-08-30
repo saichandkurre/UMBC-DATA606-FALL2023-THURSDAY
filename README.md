@@ -7,7 +7,7 @@
     </p>
 </div>   
 
-**$${\color{red} Sai/spaceChand/spaceKurre}$$**
+**$${\color{red} Sai \space Chand \space Kurre}$$**
 
 **Sai Chand Kurre**   
 Address: 4726 Gateway Terrace, Arbutus, Baltimore,  Zip code: 21227.    
